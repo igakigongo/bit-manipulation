@@ -1,0 +1,19 @@
+{
+  "name": "bit-manipulation",
+  "version": "1.0.0",
+  "description": "Bitwise Operations",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/igakigongo/bit-manipulation"
+  },
+  "keywords": [
+    "Bitwise",
+    "Operations"
+  ],
+  "author": "Iga Kigongo Edward",
+  "license": "ISC"
+}
