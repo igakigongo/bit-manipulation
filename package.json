@@ -4,7 +4,7 @@
   "description": "Bitwise Operations",
   "main": "index.js",
   "scripts": {
-    "test": "npm test"
+    "test": "jest --coverage --watchAll"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,8 @@
     "Operations"
   ],
   "author": "Iga Kigongo Edward",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^26.6.3"
+  }
 }
